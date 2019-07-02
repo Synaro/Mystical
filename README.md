@@ -1,0 +1,2 @@
+# Mystical
+A server community
